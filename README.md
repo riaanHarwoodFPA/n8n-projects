@@ -5,29 +5,29 @@ This repository contains workflows focused on automation, system integrations, A
 
 
 ## Technologies Used
-n8n
-JavaScript
-REST APIs
-Webhooks
-JSON
-OAuth2 Authentication
-AI & Automation Tools
+* n8n
+* JavaScript
+* REST APIs
+* Webhooks
+* JSON
+* OAuth2 Authentication
+* AI & Automation Tools
 
 
 ## Example Automations
 
-+Email Notification Workflow
+Email Notification Workflow
 
-+Automates email alerts based on triggers or events.
+Automates email alerts based on triggers or events.
 
-+CRM Integration
+CRM Integration
 
-+Syncs customer information between multiple platforms.
+Syncs customer information between multiple platforms.
 
-+AI Automation
+AI Automation
 
-+Uses AI services to process data and automate repetitive tasks.
+Uses AI services to process data and automate repetitive tasks.
 
-+API Data Processing
+API Data Processing
 
-+Retrieves, transforms, and sends data between systems automatically.
+Retrieves, transforms, and sends data between systems automatically.
